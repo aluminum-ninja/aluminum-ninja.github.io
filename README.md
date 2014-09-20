@@ -44,9 +44,9 @@ Please note that that forking the aluminum project template is highly recommende
 
 Copyright to most materials in this repository are owned by 
 
-Vaadin Ltd
-Ruukinkatu 2
-Turku, 20540, Finland
+  Vaadin Ltd
+  Ruukinkatu 2
+  Turku, 20540, Finland
 
 
 
